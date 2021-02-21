@@ -1,5 +1,5 @@
 # Snapshots
-EOSIO Snapshots
+EOSIO Snapshots (TELOS, WAX and Proton)
 
 https://snapshots.eosarabia.net
 
